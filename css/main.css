@@ -1,5 +1,5 @@
 header {
-  background: rgb(192, 186, 186);
+  background: red;
 }
 header nav {
   display: flex;
@@ -14,7 +14,8 @@ header nav ul {
 }
 header nav .btn {
   padding: 0.5em 1em;
-  background-color: #0ebac5;
+  background-color: black;
+  border-radius: 12px;
   border: none;
   -webkit-user-select: none;
      -moz-user-select: none;
