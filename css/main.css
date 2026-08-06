@@ -12,6 +12,11 @@ header .container nav {
   align-items: center;
   justify-content: space-between;
 }
+header .container nav ul {
+  display: flex;
+  align-items: center;
+}
+
 .btn {
   padding: 0.5em 1em;
   background-color: #0ebac5;
