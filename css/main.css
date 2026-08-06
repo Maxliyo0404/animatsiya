@@ -51,7 +51,6 @@
     inset: 0 1em 0.5em 0;
   }
 }
-/* Move left Side */
 @keyframes move-left-side {
   0% {
     right: -1em;
