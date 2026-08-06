@@ -9,6 +9,7 @@ header .container {
 }
 header .container nav {
   display: flex;
+  align-items: center;
 }
 
 .btn {
