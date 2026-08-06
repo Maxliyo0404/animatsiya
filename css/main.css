@@ -12,8 +12,7 @@ header nav ul {
   align-items: center;
   justify-content: space-between;
 }
-
-.btn {
+header nav .btn {
   padding: 0.5em 1em;
   background-color: #0ebac5;
   border: none;
@@ -28,8 +27,7 @@ header nav ul {
   position: relative;
   box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -2px rgba(0, 0, 0, 0.1);
 }
-
-.btn:hover::after, .btn:hover::before {
+header nav .btn:hover::after, header nav .btn:hover::before {
   content: "";
   background: linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%);
   width: 100%;
@@ -39,19 +37,16 @@ header nav ul {
   z-index: -1;
   animation: move-right-side 1s ease infinite;
 }
-
-.btn:hover::before {
+header nav .btn:hover::before {
   background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
   inset: 0;
   animation: move-left-side 1s ease infinite;
   z-index: -2;
 }
-
-.btn:hover {
+header nav .btn:hover {
   background-color: #fff;
   color: #00C9FF;
 }
-
 @keyframes move-right-side {
   0% {
     inset: 0.3em 0 0 0.3em;
@@ -84,6 +79,7 @@ header nav ul {
     top: -0.5em;
   }
 }
+
 .container {
   max-width: 1200px;
   padding: 0 20px;
