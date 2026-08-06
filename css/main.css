@@ -10,7 +10,7 @@ header nav {
 header nav .logo {
   color: white;
   text-transform: uppercase;
-  font-size: 28px;
+  font-size: 20px;
 }
 header nav ul {
   display: flex;
@@ -19,7 +19,13 @@ header nav ul {
 }
 header nav ul li a {
   color: white;
-  font-size: 18px;
+  font-size: 15px;
+}
+header nav ul li a:hover {
+  color: rgb(96, 58, 58);
+}
+header nav ul li a.active {
+  color: rgb(96, 58, 58);
 }
 header nav .btn {
   padding: 0.5em 1em;
