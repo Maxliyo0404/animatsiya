@@ -7,6 +7,9 @@ header .container {
   margin: 0 auto;
   border: 3px solid 0;
 }
+header .container nav {
+  display: flex;
+}
 
 .btn {
   padding: 0.5em 1em;
