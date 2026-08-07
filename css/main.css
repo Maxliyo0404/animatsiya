@@ -123,6 +123,7 @@ header nav .btn:hover {
   font-size: 60px;
   line-height: 45px;
   color: gray;
+  margin-bottom: 20px;
 }
 .heros .hero-right {
   width: 50%;
