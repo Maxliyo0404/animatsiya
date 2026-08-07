@@ -116,10 +116,10 @@ header nav .btn:hover {
   justify-content: space-between;
 }
 .heros .hero-left {
-  max-width: 50%;
+  width: 50%;
 }
 .heros .hero-right {
-  max-width: 50%;
+  width: 50%;
 }
 .heros .hero-right .hero-rasm {
   max-width: 100%;
