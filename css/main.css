@@ -120,8 +120,9 @@ header nav .btn:hover {
   width: 50%;
 }
 .heros .hero-left .hero-title {
-  font-size: 40px;
+  font-size: 60px;
   line-height: 45px;
+  color: gray;
 }
 .heros .hero-right {
   width: 50%;
