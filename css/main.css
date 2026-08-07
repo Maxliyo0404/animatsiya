@@ -125,6 +125,12 @@ header nav .btn:hover {
   color: gray;
   margin-bottom: 20px;
 }
+.heros .hero-left .hero-title {
+  font-size: 60px;
+  line-height: 45px;
+  color: gray;
+  margin-bottom: 20px;
+}
 .heros .hero-right {
   width: 50%;
 }
