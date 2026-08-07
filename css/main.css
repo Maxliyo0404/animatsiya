@@ -126,7 +126,7 @@ header nav .btn:hover {
   margin-bottom: 20px;
 }
 .heros .hero-left .hero-text {
-  font-size: 60px;
+  font-size: \1 px;
   line-height: 45px;
   color: gray;
   margin-bottom: 20px;
