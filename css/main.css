@@ -108,4 +108,19 @@ header nav .btn:hover {
   padding: 0 20px;
   margin: 0 auto;
   border: 3px solid 0;
+}
+
+.heros {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.heros .hero-left {
+  max-width: 50%;
+}
+.heros .hero-righht {
+  max-width: 50%;
+}
+.heros .hero-righht .rasm {
+  max-width: 100%;
 }/*# sourceMappingURL=main.css.map */
