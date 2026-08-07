@@ -119,6 +119,10 @@ header nav .btn:hover {
 .heros .hero-left {
   width: 50%;
 }
+.heros .hero-left .hero-title {
+  font-size: 40px;
+  line-height: 45px;
+}
 .heros .hero-right {
   width: 50%;
 }
