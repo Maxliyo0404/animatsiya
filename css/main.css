@@ -219,4 +219,10 @@ header nav .btn:hover {
   color: #222;
   margin-bottom: 40px;
   font-family: sans-serif;
+}
+.services ul {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  flex-wrap: wrap;
 }/*# sourceMappingURL=main.css.map */
