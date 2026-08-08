@@ -225,5 +225,5 @@ header nav .btn:hover {
   grid-template-columns: repeat(1, 3fr);
 }
 .services ul li {
-  width: 33%;
+  width: 100%;
 }/*# sourceMappingURL=main.css.map */
