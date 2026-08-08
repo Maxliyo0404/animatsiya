@@ -221,7 +221,7 @@ header nav .btn:hover {
   font-family: sans-serif;
 }
 .services ul {
-  display: flex;
+  display: grid;
   align-items: center;
   justify-content: space-between;
   gap: 20px;
