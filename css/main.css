@@ -224,6 +224,6 @@ header nav .btn:hover {
   display: grid;
   grid-template-columns: repeat(1, 3fr);
 }
-.services .services-list li {
+.services .services-list .services-list {
   width: 100%;
 }/*# sourceMappingURL=main.css.map */
