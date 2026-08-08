@@ -226,4 +226,7 @@ header nav .btn:hover {
   justify-content: space-between;
   gap: 20px;
   flex-wrap: wrap;
+}
+.services ul li {
+  width: 33%;
 }/*# sourceMappingURL=main.css.map */
