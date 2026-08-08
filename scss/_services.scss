@@ -11,7 +11,10 @@
     }
     ul{
     display: grid;
-    justify-content: space-between;
+  grid-template-columns: repeat(1, 3fr);
+
+
+
     gap: 20px;
     flex-wrap: wrap;
     li{
