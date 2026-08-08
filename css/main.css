@@ -220,10 +220,10 @@ header nav .btn:hover {
   margin-bottom: 40px;
   font-family: sans-serif;
 }
-.services ul {
+.services .services-list {
   display: grid;
   grid-template-columns: repeat(1, 3fr);
 }
-.services ul li {
+.services .services-list li {
   width: 100%;
 }/*# sourceMappingURL=main.css.map */
