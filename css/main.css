@@ -323,10 +323,9 @@ header nav .btn:hover {
   background-color: #432121;
 }
 
-/* Statistika Section Stiliklari */
 .stats-section {
   padding: 60px 20px;
-  background-color: #5a2e2e; /* Saytingizdagi tugma rangiga mos fon */
+  background-color: #5a2e2e;
   color: #fff;
 }
 
