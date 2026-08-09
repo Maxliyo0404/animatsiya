@@ -241,6 +241,10 @@ header nav .btn:hover {
 }
 .section-services .services-list .services-item .card-icon {
   margin-bottom: 20px;
+  font-size: 35px;
+}
+.section-services .services-list .services-item .card-icon:hover {
+  transform: scale(0.9);
 }
 .section-services .services-list .services-item h3 {
   font-size: 23px;

@@ -28,6 +28,10 @@
         }
         .card-icon{
             margin-bottom: 20px;
+            font-size: 35px;
+             &:hover{
+            transform: scale(0.9);
+        }
         }
         h3{
             font-size: 23px;
