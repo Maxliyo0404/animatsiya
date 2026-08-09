@@ -234,4 +234,7 @@ header nav .btn:hover {
   min-width: 280px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
   transition: transform 0.3s ease;
+}
+.section-services .services-list .services-item:hover {
+  transform: scale(1.1);
 }/*# sourceMappingURL=main.css.map */
