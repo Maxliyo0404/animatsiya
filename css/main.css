@@ -225,6 +225,7 @@ header nav .btn:hover {
 .section-services .services-list {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
 }
 .section-services .services-list .services-item {
   width: 100%;
