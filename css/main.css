@@ -231,10 +231,11 @@ header nav .btn:hover {
   width: 100%;
   background: #ffffff;
   padding: 30px 20px;
+  border-radius: 20px;
   min-width: 280px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
   transition: transform 0.3s ease;
 }
 .section-services .services-list .services-item:hover {
-  transform: scale(1.1);
+  transform: scale(0.9);
 }/*# sourceMappingURL=main.css.map */
