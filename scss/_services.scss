@@ -13,7 +13,7 @@
     }
     .services-list{
     display: grid;
-    grid-template-columns: repeat(1, 3fr);
+    grid-template-columns: repeat(3, 1fr);
     .services-item{
         width: 100%;
         background: #ffffff;
