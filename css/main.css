@@ -218,6 +218,7 @@ header nav .btn:hover {
   font-size: 32px;
   color: #222;
   margin: 0 auto;
+  text-align: center;
   margin-bottom: 40px;
   font-family: sans-serif;
 }
