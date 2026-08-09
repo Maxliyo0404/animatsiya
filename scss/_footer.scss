@@ -48,11 +48,3 @@
     color: #888;
     font-size: 14px;
 }
-
-/* Mobil qurilmalar uchun */
-@media (max-width: 768px) {
-    .footer-grid {
-        grid-template-columns: 1fr;
-        text-align: center;
-    }
-}
