@@ -248,8 +248,8 @@ header nav .btn:hover {
   font-weight: 700;
   margin-bottom: 15px;
 }
-.section-services .services-list .services-item h3 {
-  font-size: 23px;
-  font-weight: 700;
+.section-services .services-list .services-item p {
+  font-size: 16px;
+  font-weight: 400;
   margin-bottom: 15px;
 }/*# sourceMappingURL=main.css.map */
