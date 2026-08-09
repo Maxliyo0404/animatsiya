@@ -208,23 +208,23 @@ header nav .btn:hover {
   border-radius: 20px;
 }
 
-.services {
+.section-services {
   padding: 60px 20px;
   background-color: #fafafa;
   margin-top: 40px;
   border-top: 1px solid #eaeaea;
 }
-.services .services-title {
+.section-services .services-title {
   font-size: 32px;
   color: #222;
   margin-bottom: 40px;
   font-family: sans-serif;
 }
-.services .services-list {
+.section-services .services-list {
   display: grid;
   grid-template-columns: repeat(1, 3fr);
 }
-.services .services-list {
+.section-services .services-list .services-list {
   width: 100%;
   background: #ffffff;
   padding: 30px 20px;
