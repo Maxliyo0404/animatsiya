@@ -358,14 +358,4 @@ header nav .btn:hover {
   font-size: 16px;
   color: #f0f0f0;
   line-height: 1.4;
-}
-
-@media (max-width: 768px) {
-  .stats-grid {
-    flex-direction: column;
-    gap: 40px;
-  }
-  .stat-item h3 {
-    font-size: 36px;
-  }
 }/*# sourceMappingURL=main.css.map */
