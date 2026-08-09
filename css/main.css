@@ -217,6 +217,7 @@ header nav .btn:hover {
 .section-services .services-title {
   font-size: 32px;
   color: #222;
+  margin: 0 auto;
   margin-bottom: 40px;
   font-family: sans-serif;
 }
